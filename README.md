@@ -35,11 +35,17 @@ Scope:
 - Artificial intelligence will be used by the android  application to identify important sound instants that are relevant to these individual. like car horns, etc.
 
 Features
-- The mobile application has to offerreal time  notifications for  sound occurrences.
-- The user's sound events should be continuously recorded by the mobile application.
-- The mobile application has to be low latency in real time and suited for Android use.
+- The application has to deliver in time  notifications for  sound instances.
+- A log should be continuesly kept for every instances faced by the user.
+- The mobile application has to have  low latency in time deliveries and suited for Android use.
 
 Non-Functional aspects
-- The mobile application should have an intuitive user interface so that anybody can use it.
+- The mobile application should have an easy to use interface so that everyone  can use it.
 - High performance and minimal latency should be provided by the mobile application.
-- The mobile application has to respond quickly and in real time.
+- In time responses shall be provided by the user.
+-The sound recognisation shall be accurate.
+-the app shall be android compattible.
+-app shall be secure and shall have data protection.
+-app shall be adaptable to new sound.
+peaple with disability shall be able to access it.
+Regular updates shall be made to remove bugs and enhance performance.
